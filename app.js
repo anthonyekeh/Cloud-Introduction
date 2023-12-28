@@ -11,10 +11,4 @@ const PORT = process.env.PORT || 3000;
 server.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}/`);
 });
-<<<<<<< HEAD
-// This is the main branch
-// this is so amazing, I figured it out!!!!
-// edited from git UI
-=======
-// there is no change here to be made
->>>>>>> master
+// first comment from 'main branch'
